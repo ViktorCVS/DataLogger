@@ -77,6 +77,10 @@ Aqui conseguimos pegar os dados de saída da porta serial (enviados pelo arduino
 
 Por fim, nosso resultado em gráfico com o tratamento dos dados da porta de comunicação feito em Python.
 
+![gifs](https://user-images.githubusercontent.com/69547580/117088887-28d1c580-ad2a-11eb-8b74-1b6c7b66f1c5.gif)
+
+Perceba que o gráfico varia em tempo real conforme giro o dimmer do potenciômetro (em vermelho) e aperto o botão (em azul).
+
 
 
 
