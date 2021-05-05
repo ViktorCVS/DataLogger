@@ -12,7 +12,7 @@ E esses são os materiais necessários:
 - [x] Potenciômetro
 - [x] Botão
 - [x] Protoboard (opcional)
-- [x] Jumpers/fios 
+- [x] Jumpers/fios (usei 7 jumpers no total)
 
 Bibliotecas necessárias para o Arduino (todas nativas):
 
@@ -38,17 +38,22 @@ Usamos o potenciômetro curva B de 1k ohm
 
 ![f2](https://user-images.githubusercontent.com/69547580/117088056-c081e480-ad27-11eb-89c4-2526ab32bfcc.jpg)
 
-Botão simples de dois terminais
+Aqui usamos um resistor de precisão de 2k ohm
+
 
 ### Resistor
 
 ![f1](https://user-images.githubusercontent.com/69547580/117088055-c081e480-ad27-11eb-9b19-e9afde85020e.jpg)
 
-Aqui usamos um resistor de precisão de 2k ohm
+Botão simples de dois terminais
 
 ### Esquemático
 
+![esq](https://user-images.githubusercontent.com/69547580/117088054-bfe94e00-ad27-11eb-8e4e-473618e536ce.jpg)
+
 ### Circuito montado
+
+![cm](https://user-images.githubusercontent.com/69547580/117088052-bf50b780-ad27-11eb-9f62-023a605f4fb4.jpg)
 
 ## Resultados
 
