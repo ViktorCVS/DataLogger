@@ -30,11 +30,11 @@ Bibliotecas necessárias para o Python (instalação com o 'pip install'):
 
 ## Resultados
 
-###Resultados do Arduino
+### Resultados do Arduino
 
-###Resultados do Python 'entradas.py'
+### Resultados do Python 'entradas.py'
 
-###Resultados do Python 'datalogger.py'
+### Resultados do Python 'datalogger.py'
 
 
 
