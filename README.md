@@ -28,6 +28,28 @@ Bibliotecas necessárias para o Python (instalação com o 'pip install'):
 
 ## Montagem do circuito
 
+### Potenciômetro
+
+![f3](https://user-images.githubusercontent.com/69547580/117088058-c11a7b00-ad27-11eb-969b-8581669becb5.jpg)
+
+Usamos o potenciômetro curva B de 1k ohm
+
+### Botão
+
+![f2](https://user-images.githubusercontent.com/69547580/117088056-c081e480-ad27-11eb-89c4-2526ab32bfcc.jpg)
+
+Botão simples de dois terminais
+
+### Resistor
+
+![f1](https://user-images.githubusercontent.com/69547580/117088055-c081e480-ad27-11eb-9b19-e9afde85020e.jpg)
+
+Aqui usamos um resistor de precisão de 2k ohm
+
+### Esquemático
+
+### Circuito montado
+
 ## Resultados
 
 Aqui apresentarei os resultados de cada código
