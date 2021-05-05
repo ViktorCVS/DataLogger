@@ -3,7 +3,7 @@
 #include <util/delay.h>
 
 
-#define BAUDRATE 74880                   // Habilita o BAUDRATE em 74880
+#define BAUDRATE 74880                    // Habilita o BAUDRATE em 74880
 #define F_CPU 16000000UL                  // Define a frequência da CPU
 #define UBRR F_CPU/BAUDRATE/16UL - 1      // Calula o valor de reg UBRR 
 
