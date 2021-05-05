@@ -30,20 +30,20 @@ Bibliotecas necessárias para o Python (instalação com o 'pip install'):
 
 ### Potenciômetro
 
-![f3](https://user-images.githubusercontent.com/69547580/117088058-c11a7b00-ad27-11eb-969b-8581669becb5.jpg)
+![f3](https://user-images.githubusercontent.com/69547580/117088426-c75d2700-ad28-11eb-8d1b-2f5ee2d1858a.jpg)
 
 Usamos o potenciômetro curva B de 1k ohm
 
-### Botão
+### Resistor
 
-![f2](https://user-images.githubusercontent.com/69547580/117088056-c081e480-ad27-11eb-89c4-2526ab32bfcc.jpg)
+![f2](https://user-images.githubusercontent.com/69547580/117088425-c75d2700-ad28-11eb-9d01-a9f18e06d80f.jpg)
 
 Aqui usamos um resistor de precisão de 2k ohm
 
 
-### Resistor
+### Botão
 
-![f1](https://user-images.githubusercontent.com/69547580/117088055-c081e480-ad27-11eb-9b19-e9afde85020e.jpg)
+![f1](https://user-images.githubusercontent.com/69547580/117088424-c6c49080-ad28-11eb-8664-bb9b68c2ce46.jpg)
 
 Botão simples de dois terminais
 
