@@ -81,6 +81,10 @@ Por fim, nosso resultado em gráfico com o tratamento dos dados da porta de comu
 
 Perceba que o gráfico varia em tempo real conforme giro o dimmer do potenciômetro (em vermelho) e aperto o botão (em azul).
 
+## Comentários adicionais
+
+Espero que tenham gostado e que possam replicar o atual projeto sem maiores dificuldades.
+
 
 
 
